@@ -1,0 +1,19 @@
+!=partial("../_part/head")
+body
+  row.mainbody
+    column(cols='9')
+      row
+        !=partial("../_part/header")
+      row
+        !=partial("../_part/nav")
+      row
+        column(cols='1')
+          !=partial("../_part/stencyl/logo")
+        column(cols='11')
+          != yield
+          !=partial("../_part/stencyl/news")
+    column(cols='3')
+      blocks(cols='1')
+        !=partial("../_part/stencyl/start")
+        !=partial("../_part/stencyl/logic")
+        !=partial("../_part/stencyl/actors")

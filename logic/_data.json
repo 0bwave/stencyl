@@ -1,0 +1,30 @@
+{
+  "1-behavior": {
+    "title": "Введение в Поведения",
+    "origin": "http://www.stencyl.com/help/view/introduction-to-behaviors/"
+  },
+  "2-creating-behavior": {
+    "title": "Работа с Поведениями",
+    "origin": "http://www.stencyl.com/help/view/working-with-behaviors/"
+  },
+  "3-attributes": {
+    "title": "Атрибуты",
+    "origin": "http://www.stencyl.com/help/view/attributes/"
+  },
+  "4-game-attributes": {
+    "title": "Игровые Атрибуты",
+    "origin": "http://www.stencyl.com/help/view/game-attributes/"
+  },
+  "5-attribute-types": {
+    "title": "Типы Атрибутов",
+    "origin": "http://www.stencyl.com/help/view/attribute-types-reference/"
+  },
+  "6-events": {
+    "title": "Справочник Событий",
+    "origin": "http://www.stencyl.com/help/view/events-reference/"
+  },
+  "7-our-behaviors": {
+    "title": "Готовые Поведения",
+    "origin": "http://www.stencyl.com/help/view/pre-shipped-behaviors/"
+  }
+}

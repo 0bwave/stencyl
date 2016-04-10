@@ -1,0 +1,7 @@
+1. [Введение в Поведения](1-behavior)
+2. [Работа с Поведениями](2-creating-behavior)
+3. [Атрибуты](3-attributes)
+4. [Игровые Атрибуты](4-game-attributes)
+5. [Типы Атрибутов](5-attribute-types)
+6. [Справочник Событий](6-events)
+7. [Готовые Поведения](7-our-behaviors)

@@ -1,0 +1,38 @@
+{
+  "1-actors": {
+    "title": "Что такое Актеры?",
+    "origin": "http://www.stencyl.com/help/view/what-are-actors/"
+  },
+  "2-animations": {
+    "title": "Анимация",
+    "origin": "http://www.stencyl.com/help/view/animations/"
+  },
+  "3-motion-forces": {
+    "title": "Движение и Силы",
+    "origin": "http://www.stencyl.com/help/view/motion-and-forces/"
+  },
+  "4-physics": {
+    "title": "Работа с Физикой",
+    "origin": "http://www.stencyl.com/help/view/working-with-physics/"
+  },
+  "5-controls": {
+    "title": "Управление",
+    "origin": "http://www.stencyl.com/help/view/controls/"
+  },
+  "6-collisions-groups": {
+    "title": "Столкновения и Группы",
+    "origin": "http://www.stencyl.com/help/view/collisions-and-groups/"
+  },
+  "7-creating-killing": {
+    "title": "Создание и Уничтожение Актеров",
+    "origin": "http://www.stencyl.com/help/view/creating-destroying-actors/"
+  },
+  "8-tweening": {
+    "title": "Твининг",
+    "origin": "http://www.stencyl.com/help/view/tweening/"
+  },
+  "9-challenge": {
+    "title": "Актеры > Задание",
+    "origin": "http://www.stencyl.com/help/view/chapter-3-challenge/"
+  }
+}

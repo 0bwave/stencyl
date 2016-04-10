@@ -1,0 +1,22 @@
+{
+  "ch1": {
+    "title": "Введение",
+    "origin": "http://www.stencyl.com/help/view/crash-course/"
+  },
+  "ch2": {
+    "title": "Ресурсы",
+    "origin": "http://www.stencyl.com/help/viewArticle/144/"
+  },
+  "ch3": {
+    "title": "Актеры",
+    "origin": "http://www.stencyl.com/help/viewArticle/145/"
+  },
+  "ch4": {
+    "title": "Создание Сцены",
+    "origin": "http://www.stencyl.com/help/viewArticle/146/"
+  },
+  "ch5": {
+    "title": "Тест Игры",
+    "origin": "http://www.stencyl.com/help/viewArticle/147/"
+  }
+}
