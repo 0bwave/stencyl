@@ -1,0 +1,34 @@
+{
+  "1-scene": {
+    "title": "Основы Сцены",
+    "origin": "http://www.stencyl.com/help/view/scene-basics/"
+  },
+  "2-camera": {
+    "title": "Камера",
+    "origin": "http://www.stencyl.com/help/view/the-camera/"
+  },
+  "3-tiles": {
+    "title": "ТайлСеты",
+    "origin": "http://www.stencyl.com/help/view/tiles/"
+  },
+  "4-regions": {
+    "title": "Регионы",
+    "origin": "http://www.stencyl.com/help/view/regions/"
+  },
+  "5-hud": {
+    "title": "Отображение Текста и Интерфейса",
+    "origin": "http://www.stencyl.com/help/view/drawing-text-and-huds/"
+  },
+  "6-changing": {
+    "title": "Смена Сцен",
+    "origin": "http://www.stencyl.com/help/view/changing-scenes/"
+  },
+  "7-backgrounds": {
+    "title": "Фоны",
+    "origin": "http://www.stencyl.com/help/view/backgrounds-and-foregrounds/"
+  },
+  "8-customizing": {
+    "title": "Настройка Актеров",
+    "origin": "http://www.stencyl.com/help/view/customizing-actors/"
+  }
+}
